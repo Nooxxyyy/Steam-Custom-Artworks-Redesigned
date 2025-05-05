@@ -15,7 +15,8 @@ body {
     gap: 48px;
     padding: 48px;
     font-family: "Be Vietnam Pro", serif;
-    color: #161616;
+    color: #fff;
+    background-color: #0a0a0a;
 }
 
 
@@ -26,7 +27,7 @@ body {
     width: 100%;
     height: 100%;
     padding: 42px;
-    background: #CCC1A1;
+    background: #111111;
 }
 .artwork#grid {
     gap: 12px;
@@ -55,6 +56,7 @@ h1 {
     font-size: 48px;
     font-weight: 900;
     text-overflow: ellipsis;
+    color: #666CFF;
 }
 #grid h1 {
     -webkit-line-clamp: 2;
@@ -76,7 +78,7 @@ h1 {
     height: 6px;
     min-height: 6px;
     border-radius: 100px;
-    background: #161616;
+    background: #666CFF;
 }
 #p .divider {
     width: 6px;
@@ -93,7 +95,7 @@ h1 {
 img {
     object-fit: cover;
     border-radius: 32px;
-    box-shadow: 10px 10px 0 0 #161616;
+    box-shadow: 10px 10px 0 0 #fff;
 }
 #grid img {
     width: 100%;
@@ -107,7 +109,7 @@ img {
     width: 1080px;
     height: 100%;
     border-radius: 64px;
-    box-shadow: 20px 20px 0 0 #161616;
+    box-shadow: 20px 20px 0 0 #fff;
 }
 
 
@@ -153,6 +155,7 @@ img {
 
 b {
     font-weight: 900;
+    color: #666CFF;
 }
 
 
